@@ -1,1 +1,2 @@
 "# Maquette-RE-NDAMA-1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Lionel-Johnson/Maquette-RE-NDAMA-1.gitgit push -u origin main
+"# RE-NDAMA2"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Lionel-Johnson/RE-NDAMA2.gitgit push -u origin main
