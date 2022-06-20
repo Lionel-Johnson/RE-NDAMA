@@ -1,0 +1,2223 @@
+/* Logo */
+
+
+position: absolute;
+width: 151px;
+height: 64px;
+left: 56px;
+top: 23px;
+
+background: url(logo.png);
+
+
+/* Accueil */
+
+
+position: absolute;
+width: 56px;
+height: 18px;
+left: 289px;
+top: 40px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* Chambres */
+
+
+position: absolute;
+width: 75px;
+height: 18px;
+left: 520px;
+top: 40px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* Contact */
+
+
+position: absolute;
+width: 62px;
+height: 18px;
+left: 618px;
+top: 40px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* A propos de nous */
+
+
+position: absolute;
+width: 128px;
+height: 18px;
+left: 369px;
+top: 40px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 106px;
+height: 42px;
+left: 813px;
+top: 29px;
+
+background: #1A1A1A;
+
+
+/* S’enregistrer */
+
+
+position: absolute;
+width: 75px;
+height: 14px;
+left: 828px;
+top: 44px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #FFFFFF;
+/* Entré */
+
+
+position: absolute;
+width: 56px;
+height: 18px;
+left: 360px;
+top: 523px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Date */
+
+
+position: absolute;
+width: 33px;
+height: 10px;
+left: 360px;
+top: 544px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 462px;
+top: 523px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* orange calendar */
+
+
+position: absolute;
+width: 29px;
+height: 26px;
+left: 323px;
+top: 517px;
+
+background: url(calendar.png);
+
+
+/* Sortie */
+
+
+position: absolute;
+width: 56px;
+height: 18px;
+left: 520px;
+top: 523px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Date */
+
+
+position: absolute;
+width: 33px;
+height: 10px;
+left: 520px;
+top: 544px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 622px;
+top: 523px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* orange calendar */
+
+
+position: absolute;
+width: 29px;
+height: 26px;
+left: 483px;
+top: 517px;
+
+background: url(calendar.png);
+
+
+/* Nombres */
+
+
+position: absolute;
+width: 67px;
+height: 18px;
+left: 681px;
+top: 523px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Ajouter */
+
+
+position: absolute;
+width: 44px;
+height: 10px;
+left: 681px;
+top: 544px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+
+color: #000000;
+
+
+
+/* user icon */
+
+
+position: absolute;
+width: 28px;
+height: 27px;
+left: 645px;
+top: 516px;
+
+background: url(user (1).png);
+
+
+/* white bg */
+
+
+position: absolute;
+width: 354px;
+height: 299px;
+left: 68px;
+top: 133px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 129px;
+height: 46px;
+left: 84px;
+top: 382px;
+
+background: #1A1A1A;
+
+
+/* Découvrir */
+
+
+position: absolute;
+width: 54px;
+height: 16px;
+left: 122px;
+top: 397px;
+
+font-family: 'Gothic A1';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+
+
+/* Détendez-vous */
+
+
+position: absolute;
+width: 322px;
+height: 50px;
+left: 84px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 55px;
+
+color: #000000;
+
+
+
+/* Dans Notre */
+
+
+position: absolute;
+width: 322px;
+height: 50px;
+left: 84px;
+top: 211px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 55px;
+
+color: #000000;
+
+
+
+/* Complexe */
+
+
+position: absolute;
+width: 322px;
+height: 50px;
+left: 84px;
+top: 259px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 55px;
+
+color: #000000;
+
+
+
+/* luxueux */
+
+
+position: absolute;
+width: 322px;
+height: 50px;
+left: 84px;
+top: 306px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 55px;
+
+color: #000000;* top left bed */ position: absolute;
+width: 373px;
+height: 247px;
+left: 65px;
+top: 797px;
+
+background: url(king size bed.png);
+
+
+/* bottom right bed */
+
+
+position: absolute;
+width: 435px;
+height: 297px;
+left: 475px;
+top: 1033px;
+
+background: url(room with big size bed.png);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 373px;
+height: 248px;
+left: 65px;
+top: 1082px;
+
+background: url(bed with many pellows.png);
+
+
+/* Nos meilleures chambres */
+
+
+position: absolute;
+width: 482px;
+height: 39px;
+left: 477px;
+top: 787px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 47px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Habituellement, le plus fort dans la pieces est le plus faible. L’homme le plus silencieux de la piece. */
+
+
+position: absolute;
+width: 350px;
+height: 35px;
+left: 475px;
+top: 849px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 808px;
+top: 962px;
+
+border: 1px solid #000000;
+
+
+/* voir les offres */
+
+
+position: absolute;
+width: 80px;
+height: 11px;
+left: 820px;
+top: 977px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse TV */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 475px;
+top: 923px;
+
+border: 2px solid #E79434;
+
+
+/* LED TV */
+
+
+position: absolute;
+width: 42px;
+height: 26px;
+left: 482px;
+top: 938px;
+
+background: url(smart-tv.png);
+
+
+/* Ellipse AC */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 553px;
+top: 923px;
+
+border: 2px solid #E79434;
+
+
+/* AC */
+
+
+position: absolute;
+width: 42px;
+height: 26px;
+left: 560px;
+top: 939px;
+
+background: url(air-conditioner.png);
+
+
+/* Ellipse WIFI */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 631px;
+top: 923px;
+
+border: 2px solid #E79434;
+
+
+/* WIFI */
+
+
+position: absolute;
+width: 42px;
+height: 26px;
+left: 653.34px;
+top: 926.96px;
+
+background: url(wifi (1).png);
+transform: rotate(45deg);
+
+
+/* Ellipse FITNESS */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 709px;
+top: 923px;
+
+border: 2px solid #E79434;
+
+
+/* FITNESS */
+
+
+position: absolute;
+width: 46px;
+height: 28px;
+left: 714px;
+top: 937px;
+
+background: url(dumbbell.png);
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 547px;
+top: 2020px;
+
+border: 1px solid #000000;
+
+
+/* Reservez */
+
+
+position: absolute;
+width: 56px;
+height: 11px;
+left: 567px;
+top: 2035px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Les services du complexe designent les services qui sont fournis aux clients du ciomplexe de temps a autres */
+
+
+position: absolute;
+width: 278px;
+height: 59px;
+left: 352px;
+top: 1550px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Nos services */
+
+
+position: absolute;
+width: 218px;
+height: 39px;
+left: 394px;
+top: 1491px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 47px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Salle de conference */
+
+
+position: absolute;
+width: 161px;
+height: 16px;
+left: 521px;
+top: 1685px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+
+
+/* conference */
+
+
+position: absolute;
+width: 41px;
+height: 38px;
+left: 575px;
+top: 1638px;
+
+background: url(conference (1).png);
+
+
+/* salle de detente */
+
+
+position: absolute;
+width: 130px;
+height: 16px;
+left: 324px;
+top: 1683px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+
+
+/* detente box */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 101px;
+left: 280px;
+top: 1622px;
+
+border: 0.5px solid #000000;
+
+
+/* detente */
+
+
+position: absolute;
+width: 38px;
+height: 31px;
+left: 361px;
+top: 1641px;
+
+background: url(bed (1).png);
+
+
+/* restaurant box */
+
+
+position: absolute;
+width: 204px;
+height: 101px;
+left: 65px;
+top: 1622px;
+
+background: #000000;
+
+
+/* Restaurant */
+
+
+position: absolute;
+width: 91px;
+height: 16px;
+left: 124px;
+top: 1685px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: 0.06em;
+
+color: #E79434;
+
+
+
+/* restaurant */
+
+
+position: absolute;
+width: 36px;
+height: 38px;
+left: 150px;
+top: 1640px;
+
+background: url(restaurant (1).png);
+
+
+/* Piscine */
+
+
+position: absolute;
+width: 57px;
+height: 16px;
+left: 779px;
+top: 1685px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+
+
+/* piscine box */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 203px;
+height: 101px;
+left: 707px;
+top: 1622px;
+
+border: 0.5px solid #000000;
+
+
+/* piscine */
+
+
+position: absolute;
+width: 62px;
+height: 40px;
+left: 784px;
+top: 1633px;
+
+background: url(swimming-pool.png);
+
+
+/* Nous sommes respesctueux envers nos clients. Nous offrons un */
+
+
+position: absolute;
+width: 373px;
+height: 12px;
+left: 548px;
+top: 1802px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+
+/* service a la clientele rapide, courtois et efficace */
+
+
+position: absolute;
+width: 373px;
+height: 12px;
+left: 548px;
+top: 1823px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+
+color: #000000;
+
+
+
+/* Restaurant */
+
+
+position: absolute;
+width: 135px;
+height: 28px;
+left: 548px;
+top: 1756px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 547px;
+top: 1864px;
+
+background: #E79434;
+
+
+/* lorem ipsum text.. */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 567px;
+top: 1862px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 728px;
+top: 1863px;
+
+background: #E79434;
+
+
+/* lorem ipsum text.. */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 748px;
+top: 1861px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 547px;
+top: 1896px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 567px;
+top: 1894px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 728px;
+top: 1895px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 748px;
+top: 1893px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 547px;
+top: 1928px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 567px;
+top: 1926px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 728px;
+top: 1927px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 748px;
+top: 1925px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 547px;
+top: 1960px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 567px;
+top: 1958px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 728px;
+top: 1959px;
+
+background: #E79434;
+
+
+/* lorem ipsum text */
+
+
+position: absolute;
+width: 108px;
+height: 11px;
+left: 748px;
+top: 1957px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* meal and view marina */
+
+
+position: absolute;
+width: 449px;
+height: 298px;
+left: 69px;
+top: 1764px;
+
+background: url(meal and view on marina.png);
+/* Découvrez notre galerie d’hotels */
+
+
+position: absolute;
+width: 573px;
+height: 39px;
+left: 227px;
+top: 2239px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 47px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 34px;
+left: 232px;
+top: 2305px;
+
+border: 1px solid #000000;
+
+
+/* Classique */
+
+
+position: absolute;
+width: 56px;
+height: 9px;
+left: 256px;
+top: 2316px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+position: absolute;
+width: 101px;
+height: 34px;
+left: 446px;
+top: 2305px;
+
+background: #000000;
+
+
+/* Universel */
+
+
+position: absolute;
+width: 56px;
+height: 9px;
+left: 468px;
+top: 2316px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 99px;
+height: 34px;
+left: 553px;
+top: 2305px;
+
+border: 1px solid #000000;
+
+
+/* Superieur */
+
+
+position: absolute;
+width: 58px;
+height: 9px;
+left: 575px;
+top: 2317px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 34px;
+left: 659px;
+top: 2305px;
+
+border: 1px solid #000000;
+
+
+/* Suite */
+
+
+position: absolute;
+width: 31px;
+height: 9px;
+left: 697px;
+top: 2316px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 34px;
+left: 339px;
+top: 2305px;
+
+border: 1px solid #000000;
+
+
+/* Classique Jum.. */
+
+
+position: absolute;
+width: 89px;
+height: 9px;
+left: 346px;
+top: 2316px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+
+/* Chambre confortble decorée dans des tons pastel. Equipé de chambres standards. Chaque chambre est climatisée. */
+
+
+position: absolute;
+width: 253px;
+height: 79px;
+left: 74px;
+top: 2654px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: rgba(0, 0, 0, 0.66);
+
+
+
+/* waiting area */
+
+
+position: absolute;
+width: 256px;
+height: 267px;
+left: 69px;
+top: 2371px;
+
+background: url(waiting area.png);
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 74px;
+top: 2737px;
+
+border: 1px solid #000000;
+
+
+/* Reservez */
+
+
+position: absolute;
+width: 56px;
+height: 11px;
+left: 94px;
+top: 2752px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Les chambres supérieures ont une belle vue sur les collines. Les chambres supérieures sont plus grandes que les chambres standard. */
+
+
+position: absolute;
+width: 245px;
+height: 79px;
+left: 371px;
+top: 2653px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: rgba(0, 0, 0, 0.66);
+
+
+
+/* bed and view */
+
+
+position: absolute;
+width: 256px;
+height: 267px;
+left: 364px;
+top: 2371px;
+
+background: url(bed and view.png);
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 371px;
+top: 2737px;
+
+border: 1px solid #000000;
+
+
+/* Reservez */
+
+
+position: absolute;
+width: 56px;
+height: 11px;
+left: 391px;
+top: 2752px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Une suite d’hotel un ensemble de mobilier, notamment un ensemble comprenant le mobilier de base nécessaire pour une chambre une suite parentale. */
+
+
+position: absolute;
+width: 265px;
+height: 79px;
+left: 664px;
+top: 2654px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+
+color: rgba(0, 0, 0, 0.66);
+
+
+
+/* Check-in desk */
+
+
+position: absolute;
+width: 256px;
+height: 267px;
+left: 659px;
+top: 2371px;
+
+background: url(man in front of a desk hall.png);
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 664px;
+top: 2737px;
+
+border: 1px solid #000000;
+
+
+/* Reservez */
+
+
+position: absolute;
+width: 56px;
+height: 11px;
+left: 684px;
+top: 2752px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 976px;
+height: 815px;
+left: 0px;
+top: 2871px;
+
+background: #F6F5F1;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 103px;
+height: 115px;
+left: 778px;
+top: 2934px;
+
+background: url(rousse long hair.png);
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 126px;
+height: 154px;
+left: 626px;
+top: 2963px;
+
+background: url(man with orange jacket.png);
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 204px;
+height: 232px;
+left: 396px;
+top: 3001px;
+
+background: url(bald nerdy.png);
+
+
+/* star */
+
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 290px;
+top: 3169px;
+
+background: url(star.png);
+
+
+/* star */
+
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 306px;
+top: 3169px;
+
+background: url(star.png);
+
+
+/* star */
+
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 322px;
+top: 3169px;
+
+background: url(star.png);
+
+
+/* star */
+
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 338px;
+top: 3169px;
+
+background: url(star.png);
+
+
+/* star */
+
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 354px;
+top: 3169px;
+
+background: url(star.png);
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 33px;
+height: 27px;
+left: 331px;
+top: 3210px;
+
+background: #000000;
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 18px;
+height: 22.91px;
+left: 339px;
+top: 3212px;
+
+background: url(next.png);
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33px;
+height: 27px;
+left: 295px;
+top: 3210px;
+
+border: 1px solid #CACACA;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 10px;
+height: 23px;
+left: 317px;
+top: 3234px;
+
+background: url(next (2).png);
+transform: rotate(-180deg);
+
+
+/* Que disent les clients ? */
+
+
+position: absolute;
+width: 408px;
+height: 92px;
+left: 67px;
+top: 2925px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* “Le service client est excellent, pret a repondre a nos demandes. La quantite est tres bonne et c’est tres, tres important. Ils essaient de satisfaire toutes les demandes des clients. Excellente communication”. */
+
+
+position: absolute;
+width: 302px;
+height: 103px;
+left: 63px;
+top: 3047px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.005em;
+
+color: #636260;
+
+
+
+/* Photographe */
+
+
+position: absolute;
+width: 83px;
+height: 13px;
+left: 63px;
+top: 3177px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 10px;
+letter-spacing: 0.025em;
+
+color: #636260;
+
+
+
+/* Alex Smith */
+
+
+position: absolute;
+width: 83px;
+height: 13px;
+left: 65px;
+top: 3157px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+letter-spacing: 0.025em;
+
+color: #000000;
+
+
+
+/* black bg */
+
+
+position: absolute;
+width: 488px;
+height: 291px;
+left: 0px;
+top: 3395px;
+
+background: #191919;
+
+
+/* S’abonner à Notre bulletin */
+
+
+position: absolute;
+width: 268px;
+height: 92px;
+left: 534px;
+top: 3389px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Pour rendre votre sejour special et encore plus memorable. */
+
+
+position: absolute;
+width: 277px;
+height: 37px;
+left: 534px;
+top: 3490px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+
+color: rgba(0, 0, 0, 0.66);
+
+
+
+/* Ellipse 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 66px;
+top: 3462px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 15px;
+height: 13px;
+left: 72px;
+top: 3469px;
+
+background: url(twitter (1).png);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 109px;
+top: 3462px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 15px;
+height: 13px;
+left: 116px;
+top: 3469px;
+
+background: url(instagram.png);
+
+
+/* Ellipse 8 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 153px;
+top: 3462px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 15px;
+height: 13px;
+left: 160px;
+top: 3469px;
+
+background: url(linkedin.png);
+
+
+/* A propos */
+
+
+position: absolute;
+width: 58px;
+height: 16px;
+left: 66px;
+top: 3534px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Contact */
+
+
+position: absolute;
+width: 57px;
+height: 14px;
+left: 66px;
+top: 3579px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* News & Blog */
+
+
+position: absolute;
+width: 73px;
+height: 14px;
+left: 66px;
+top: 3611px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* Entreprise */
+
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 195px;
+top: 3534px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Partenaires */
+
+
+position: absolute;
+width: 72px;
+height: 14px;
+left: 195px;
+top: 3579px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* Chambres */
+
+
+position: absolute;
+width: 73px;
+height: 14px;
+left: 195px;
+top: 3611px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* Terms & Politique */
+
+
+position: absolute;
+width: 161px;
+height: 16px;
+left: 319px;
+top: 3534px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Politiaue de confidentialite */
+
+
+position: absolute;
+width: 152.53px;
+height: 14px;
+left: 319px;
+top: 3579px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* Support */
+
+
+position: absolute;
+width: 154.64px;
+height: 14px;
+left: 319px;
+top: 3611px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #A1A1A1;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 185px;
+height: 37px;
+left: 533px;
+top: 3538px;
+
+border: 1px solid #000000;
+
+
+/* Prenom */
+
+
+position: absolute;
+width: 48px;
+height: 10px;
+left: 592px;
+top: 3551px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 185px;
+height: 37px;
+left: 534px;
+top: 3590px;
+
+border: 1px solid #000000;
+
+
+/* Email */
+
+
+position: absolute;
+width: 33px;
+height: 10px;
+left: 608px;
+top: 3604px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* button border */
+
+
+position: absolute;
+width: 185px;
+height: 37px;
+left: 737px;
+top: 3590px;
+
+background: #000000;
+
+
+/* Abonnez-vous maintenant */
+
+
+position: absolute;
+width: 151px;
+height: 10px;
+left: 754px;
+top: 3602px;
+
+font-family: 'Questrial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
