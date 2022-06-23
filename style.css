@@ -1,0 +1,782 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+}
+
+/* font family */
+.font-sans {
+    font-family: Montserrat, sans-serif;
+}
+
+.font-serif {
+    font-family: serif;
+}
+
+/* font family */
+
+
+/**********************FIRST CLASS*******************/
+.row {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.alg-hzt {
+    align-items: center;
+}
+
+.alg-vrt {
+    justify-content: center;
+}
+
+.btw {
+    justify-content: space-between;
+}
+
+.arnd {
+    justify-content: space-around;
+}
+
+.rverse {
+    flex-direction: row-reverse;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.capi {
+    text-transform: capitalize;
+}
+
+.grid {
+    display: grid;
+}
+
+.xy-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    
+}
+.pad-60 {
+    padding: 60px;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+/**************** END OF FIRST CLASS ***************/
+
+/* header */
+.header .navbar {
+    font-size: 18px;
+    padding: 0 60px;
+    margin-bottom: 30px;
+    margin: 19px 0 60px 0;
+}
+
+.header .navbar .nav__list {
+    margin-right: 280px;
+}
+
+.header .navbar .nav__list li a {
+    color: black;
+    margin-left: 50px;
+}
+.header .navbar .nav__list li a:hover{
+    background-color: aquamarine;
+}
+
+.header .navbar .button {
+    background-color: black;
+    width: 150px;
+    height: 7vh;
+    position: relative;
+}
+.header .navbar .button:hover{
+    background-color: aquamarine;
+}
+
+.header .navbar .button a {
+    color: white;
+    font-size: 17px;
+}
+header .nav ul li:hover{
+    border-bottom-color: aquamarine;
+}
+
+/* end header */
+
+/* main */
+
+.main__part .hero__content {
+    flex-direction: row-reverse;
+}
+
+.main__part .left__p {
+    background-color: white;
+    position: absolute;
+    width: 35%;
+    height: 70vh;
+    left: 0; 
+}
+
+.main__part .left__p .info .big__title {
+    font-size: 60px;
+    margin: 35px 0 0 60px;
+    line-height: 86px;
+}
+
+.main__part .left__p .info .button {
+    position: relative;
+    background-color: black;
+    margin: 35px 0 0 60px;
+    width: 200px;
+    height: 50px;
+}
+.main__part .left__p .info .button:hover{
+    background-color: aquamarine;
+}
+
+.main__part .left__p .info .button a {
+    color: white;
+    width: 60%;
+    text-align: center;
+}
+
+.main__part .right__p input {
+    border: none;
+    width: 60px;
+}
+
+.main__part .right__p .banner__hero {
+    width: 1100px;
+    height: 100vh;
+}
+
+.main__part .right__p .banner__hero img {
+    width: 100%;
+    height: 100%;
+}
+
+.main__part .right__p .title__banner__info {
+    position: relative;
+    bottom: 0;
+    top: -137px;
+    background-color: rgba(230, 230, 219, 0.801);
+    width: 70%;
+    height: 20vh; 
+}
+
+.main__part .right__p .title__banner__info .first__content {
+    position: relative;
+}
+
+.main__part .right__p .title__banner__info .first__content:nth-child(1) {
+    margin-left: 40px;
+}
+
+.main__part .right__p .title__banner__info .first__content:nth-child(3) {
+    margin-right: 40px;
+}
+
+.main__part .right__p .title__banner__info .first__content .line {
+    border: solid rgba(0, 0, 0, 0.315) 1px;
+    height: 40px;
+    margin-left: 100px;
+}
+
+.title__banner__info .first__content .content__calendar {
+    margin: 20% 0;
+}
+
+.title__banner__info .first__content .content__calendar .detail span input {
+    background-color: transparent;
+    width: 70px;
+}
+
+.title__banner__info .first__content .content__calendar input::placeholder {
+    text-align: left;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.title__banner__info .first__content .content__calendar .detail {
+    margin-left: 20px;
+}
+
+.title__banner__info .first__content .content__calendar .title__item {
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+/* end main */
+
+/* one__one */
+.one__one {
+    background-color: rgba(230, 230, 219, 0.801);
+}
+
+.one__one .cards__items .head__title {
+    margin-left: 30px;
+    width: 50%;
+}
+
+.one__one .cards__items .head__title .first__content .title {
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+
+.one__one .cards__items .head__title .first__content .detail {
+    width: 80%;
+    line-height: 33px;
+    margin-bottom: 45px;
+    font-size: 18px;
+}
+
+.one__one .head__title .circle {
+    width: 80px;
+    height: 80px;
+    border: solid 3px rgb(231 151 57);
+    border-radius: 50px;
+    position: relative;
+    margin-bottom: 12px;
+}
+.one__one .head__title .circle:hover{
+    background-color: aquamarine;
+}
+
+.one__one .head__title .button {
+    width: 135px;
+    height: 45px;
+    margin-left: 40px;
+    border: solid 2px;
+    position: relative;
+    margin-top: 65px;
+}
+.one__one .head__title .button:hover{
+    background-color: aquamarine;
+}
+
+.one__one .head__title .button a {
+    width: 135px;
+    color: black;
+}
+
+.one__one .head__title .second__content {
+    position: relative;
+    width: 95%;
+}
+
+.one__one .head__title .second__content .button {
+    position: absolute;
+    right: 0;
+}
+
+.one__one .head__title .second__content .information {
+    width: 80%;
+    text-align: center;
+}
+
+.one__one .head__title .second__content .item__offers {
+    text-align: center;
+    margin-left: 25px;
+}
+
+.one__one .head__title .second__content .item__offers:nth-child(1) {
+    margin-left: 0;
+}
+
+.one__one .container .cards__items .item:nth-child(3) {
+    margin-top: 25px;
+    position: relative;
+}
+
+.one__one .container .cards__items .item:nth-child(3) .little__info {
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    height: 30vh;
+    background-color: rgba(230, 230, 219, 0.801);
+    border-left: solid 8px rgb(231 151 57); 
+}
+
+.one__one .container .cards__items .item:nth-child(3) .little__info h6 {
+    font-size: 45px;
+    margin: 35px 15px 0 30px;
+}
+
+.one__one .container .cards__items .item:nth-child(3) .little__info span:nth-child(2) {
+    margin-top: 60px;
+    height: 5vh;
+}
+
+.one__one .container .cards__items .item:nth-child(3) .little__info span:nth-child(3) {
+    margin: -25px 15px 0 30px;
+    width: 50%;
+    line-height: 32px;
+}
+
+.one__one .container .cards__items .item:nth-child(4) {
+    margin: -33px 0 0 30px;
+    width: 585px;
+    height: auto;
+}
+
+.one__one .container .cards__items .item:nth-child(4) img {
+    width: 100%;
+    height: 99%;
+}
+
+/* end one__one */
+
+/* two__two */
+.two__two .container {
+    margin: 40px 0 200px 0;
+}
+
+.two__two .container .head__section .title {
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.two__two .container .head__section .detail {
+    width: 26%;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 19px; 
+}
+
+.two__two .container .boxs__services .box {
+    margin-bottom: 20px;
+    width: 299px;
+    height: 15vh;
+    margin-left: 10px;
+    position: relative; 
+}
+.two__two .container .boxs__services .box:hover{
+    background-color: aquamarine;
+}
+
+.two__two .container .boxs__services .box:nth-child(1) {
+    background-color: black;
+    color: rgb(231 151 57);
+    margin: 0;    
+}
+
+.two__two .container .boxs__services .box:nth-child(2),
+.two__two .container .boxs__services .box:nth-child(3),
+.two__two .container .boxs__services .box:nth-child(4) {
+    border: solid 2px rgba(0, 0, 0, 0.315);
+}
+
+.two__two .container .boxs__services .icon img {
+    margin-top: -20px;
+}
+
+.two__two .container .boxs__services .name__service {
+    margin-top: 25px;
+}
+
+.two__two .container .restaurant {
+    margin-top: 30px;
+}
+
+.two__two .container .restaurant .left .left__picture img {
+    width: auto;
+}
+
+.two__two .container .restaurant .left .left__picture img {
+    width: 650px;
+    height: 100%;
+}
+
+.two__two .container .restaurant .right {
+    margin-left: 30px;
+}
+
+.two__two .container .restaurant .right .title {
+    font-size: 39px;
+    margin-bottom: 25px;
+}
+
+.two__two .container .restaurant .right .detail {
+    font-size: 19px;
+    line-height: 35px;
+    margin-bottom: 25px;
+    color: rgba(0, 0, 0, 0.615);
+}
+
+.two__two .container .restaurant .right .list {
+    margin-left: 75px;
+}
+
+.two__two .container .restaurant .right .list:nth-child(1) {
+    margin: 0;
+}
+
+.two__two .container .restaurant .right .list li {
+    list-style-type: disc;
+    color: rgb(231 151 57);
+    margin-left: 20px;
+    font-size: 18px;
+    margin-bottom: 17px;
+}
+
+.two__two .container .restaurant .right .list li span {
+    color: rgba(0, 0, 0, 0.615);
+}
+
+.two__two .container .restaurant .right .button {
+    border: solid 2px;
+    width: 150px;
+    height: 7vh;
+    position: relative;
+    margin-top: 70px;
+}
+
+.two__two .container .restaurant .right .button:hover{
+    background-color: aquamarine;
+}
+.two__two .container .restaurant .right .button a {
+    color: black;
+}
+
+/* end two__two */
+
+/*  three__three */
+.three__three .container .head__section {
+    font-size: 40px;
+    margin-bottom: 45px;
+}
+
+.three__three .container .boxs__standard {
+    margin: 25px auto;
+    width: 66%;
+}
+
+.three__three .container .boxs__standard .box {
+    border: solid 2px rgba(0, 0, 0, 0.515);
+    margin: auto;
+    font-size: 18px;
+    width: 380px;
+    height: 8vh;
+    margin-left: 10px;
+    position: relative;
+}
+.three__three .container .boxs__standard .box:hover{
+    background-color: aquamarine;
+}
+
+.three__three .container .boxs__standard .box:nth-child(1) {
+    margin: 0;
+}
+
+.three__three .container .boxs__standard .box:nth-child(3) {
+    background-color: black;
+    color: white;
+}
+
+.three__three .container .boxs__standard .name__service {
+    width: 100%;
+    text-align: center;
+}
+
+.three__three .container .galerie__cards .item {
+    width: 380px;
+}
+
+.three__three .container .galerie__cards .card__item {
+    width: 31%;
+}
+
+.three__three .container .galerie__cards .item img {
+    width: 100%;
+    height: 100%;
+}
+
+.three__three .container .galerie__cards .card__item .item {
+    margin-bottom: 20px;
+}
+
+.three__three .container .galerie__cards .card__item .detail__item {
+    display: block;
+    font-size: 17px;
+    line-height: 28px;
+    width: 80%;
+}
+
+.three__three .container .galerie__cards .card__item .eco {
+    width: 90%;
+}
+
+.three__three .container .galerie__cards .card__item .button {
+    border: solid 2px;
+    margin-top: 10px;
+    width: 35%;
+    height: 7vh;
+    position: relative;
+    margin-bottom: 40px;
+}
+.three__three .container .galerie__cards .card__item .button:hover{
+    background-color: aquamarine;
+}
+
+.three__three .container .galerie__cards .card__item .button a {
+    color: black;
+}
+
+/* end three__three */
+
+/* four__four */
+.four__four {
+    background-color: rgba(230, 230, 219, 0.801);
+}
+
+.four__four .container .head__section .title {
+    font-size: 50px;
+}
+
+.four__four .container .content__galerie .comment__client {
+    margin-top: 110px;
+    width: 33%;
+    font-size: 18px;
+    margin-right: 21px;
+    line-height: 34px;
+}
+
+.four__four .container .content__galerie .comment__client .about__client {
+    margin-top: 20px;
+}
+
+.four__four .container .content__galerie .cards__items .item {
+    margin-left: 33px;
+}
+
+.four__four .container .content__galerie .cards__items .item:nth-child(1) {
+    margin: 45px 0 0 0;
+}
+
+.four__four .container .content__galerie .cards__items .item:nth-child(3) {
+    margin-top: -45px;
+}
+
+.four__four .container .content__galerie .pagination {
+    margin-top: 30px;
+}
+
+.four__four .container .content__galerie .pagination .left {
+    width: 50px;
+    height: 5vh;
+    border: solid 2px;
+    margin-left: 2px;
+    position: relative;
+}
+.four__four .container .content__galerie .pagination .left:hover{
+    background-color: aquamarine;
+}
+
+.four__four .container .content__galerie .pagination .left:nth-child(2) {
+    background-color: black;
+}
+
+.four__four .container .content__galerie .pagination .left:nth-child(2) span {
+    color: white;
+    font-size: 19px; 
+}
+
+/* end four__four */
+
+
+/* footer */
+.footer {
+    background-color: rgba(230, 230, 219, 0.801);
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footer .left {
+    background-color: black;
+    width: 80%;
+    height: 65vh;
+    padding: 110px 0 0 60px;
+}
+
+.footer .left .social__media .cirle__border {
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    border: solid 3px rgba(230, 230, 219, 0.801);
+    position: relative;
+    margin-left: 20px;
+}
+.footer .left .social__media .cirle__border:hover{
+    background-color: aquamarine;
+}
+
+.footer .left .social__media .cirle__border:nth-child(2) {
+    background-color: white;
+}
+
+.footer .left .social__media .cirle__border:first-child {
+    margin-left: 20px;
+}
+
+.footer .left .footer__detail .link__list {
+    margin-left: 50px;
+    font-size: 16px;
+    margin-top: 50px;
+}
+.footer .left .footer__detail .link__list .head {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer .left .footer__detail .link__list:first-child {
+    margin-left: 0;
+}
+
+.footer .left .footer__detail a {
+    color: rgba(230, 230, 219, 0.801);
+}
+.footer .left .footer__detail a:hover{
+    background-color: aquamarine;
+}
+
+.footer .left .footer__detail {
+    line-height: 45px;
+    margin-left: 25px;
+}
+
+.footer .right {
+    margin-left: 50px;
+}
+
+.footer .right .head__section .title {
+    font-size: 50px;
+    width: 60%;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+
+.footer .right .head__section .detail {
+    font-size: 19px;
+    width: 70%;
+    line-height: 35px;
+}
+
+.footer .right .head__section .fomular {
+    margin-top: 17px;
+    width: 80%;
+}
+
+.footer .right .head__section .fomular input,
+footer .right .head__section .fomular button {
+    padding: 16px 33px;
+    margin-left: 25px;
+}
+
+.footer .right .head__section .fomular input:nth-child(1) {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.footer .right .head__section .fomular input:nth-child(1):hover{
+    background-color: aquamarine;
+}
+.footer .right .head__section .fomular input:nth-child(2) {
+    margin-bottom: 25px; 
+    font-size: 14px;
+        width: 45%;
+}
+.footer .right .head__section .fomular input:nth-child(2):hover{
+    background-color: aquamarine;
+}
+
+.footer .right .head__section .fomular input:nth-child(3) {
+    margin-left: 0;
+}
+
+.footer .right .head__section .fomular input:nth-child(3):hover{
+    background-color: aquamarine;
+}
+.footer .right .head__section .fomular button {
+    background-color: black;
+    color: rgba(230, 230, 219, 0.801);
+    font-size: 14px;
+    width: 45%;
+}
+
+.footer .right .head__section .fomular button:hover{
+    background-color: aquamarine;
+}
+::placeholder {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* fin du  footer */
+
+/* Porprietes des gradients */
+.gradient {
+    width: 200px;
+    height: 110px;
+    transform: rotate(-30deg);
+    border-radius: 50px;
+    opacity: .45;
+    filter: blur(38px);
+    background: rgb(255, 248, 90);
+    background: radial-gradient(circle, rgb(90, 255, 255) 0%, rgba(0, 194, 255, 1) 80%, rgba(255, 2, 169, 0.9547991071428571) 100%);
+}
+
+.left__grad {
+    margin-left: -110px;
+}
+
+.two__two {
+    position: relative;
+}
+
+.two__two .left__grad {
+    position: absolute;
+    top: 110px;
+}
+
+.two__two .right__grad {
+    position: absolute;
+    margin-top: -290px;
+    right: 14px;
+}
+
+.three__three {
+    position: relative;
+}
+
+.three__three .left__grad {
+    position: absolute;
+    top: 20px;
+}
+
+.four__four {
+    position: relative;
+}
+
+.four__four .right__grad {
+    position: absolute;
+    margin-top: -60px;
+    right: 14px;
+}
+
+/* end gradient */
